@@ -1,5 +1,3 @@
 <div align="center">
-  
-![snake gif](https://github.com/areynard13/areynard13/blob/output/github-snake-dark.svg)
-
+  <img src="./github-metrics.svg" alt="Mes Stats GitHub" width="100%">
 </div>
