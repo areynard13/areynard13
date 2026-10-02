@@ -34,7 +34,7 @@
       </div>
 
 <pre><div class="stdin"><span class="ps1-path">areynard13@metrics</span>:<span class="ps1-location">~</span># whoami</div><div class="stdout"><b>Adrien Reynard</b> registered=1y, uid=0133, gid=1
-  contributed to 28 repositories <b><span style="color:#216e39">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#ebedf0">#</span></b>
+  contributed to 28 repositories <b><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#30a14e">#</span><span style="color:#ebedf0">#</span><span style="color:#ebedf0">#</span><span style="color:#30a14e">#</span><span style="color:#9be9a8">#</span><span style="color:#9be9a8">#</span><span style="color:#40c463">#</span><span style="color:#ebedf0">#</span></b>
   followed by <b>6</b> users
 </div>
 <div class="stdin"><span class="ps1-path">areynard13@metrics</span>:<span class="ps1-location">~</span># ncal -MB11</div><div class="stdout"><div class="isocalendar">
@@ -1890,26 +1890,31 @@
                       <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                       <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.8823529411764706 0,1.8823529411764706 z"/>
                       <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.8823529411764706 1.7,2.8823529411764706 z"/>
+                    </g>
+                    <g transform="translate(-6.8, 7.61764705882353)">
+                      <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                      <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.382352941176471 0,3.3823529411764706 z"/>
+                      <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.3823529411764706 1.7,4.382352941176471 z"/>
                     </g></g></g></svg></div>
-<b>    3</b> consecutive days with commits
-<b>~3.99</b> commits per day in average
+<b>    4</b> consecutive days with commits
+<b>~4.05</b> commits per day in average
 </div>
 
 
-<div class="stdin"><span class="ps1-path">areynard13@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [########            ] 37.96%
-<b>JAVASCRIPT  </b> [######              ] 26.17%
-<b>PHP         </b> [####                ] 16.67%
-<b>BLADE       </b> [###                 ] 10.38%
-<b>C#          </b> [#                   ] 4.47 %
-<b>PYTHON      </b> [#                   ] 2.26 %
-<b>EJS         </b> [#                   ] 1.36 %
-<b>POWERSHELL  </b> [#                   ] 0.73 %
+<div class="stdin"><span class="ps1-path">areynard13@metrics</span>:<span class="ps1-location">~</span># locale</div><div class="stdout"><b>TYPESCRIPT  </b> [########            ] 37.43%
+<b>JAVASCRIPT  </b> [######              ] 27.19%
+<b>PHP         </b> [####                ] 16.44%
+<b>BLADE       </b> [###                 ] 10.23%
+<b>C#          </b> [#                   ] 4.41 %
+<b>PYTHON      </b> [#                   ] 2.23 %
+<b>EJS         </b> [#                   ] 1.34 %
+<b>POWERSHELL  </b> [#                   ] 0.72 %
 </div>
 <div class="stdin"><span class="ps1-path">areynard13@metrics</span>:<span class="ps1-location">~</span># git status</div><div class="stdout"><b>Recent activity</b>
-  <b> 1434</b> commits
+  <b> 1455</b> commits
   <b>    4</b> pull requests reviewed
-  <b>   90</b> pull requests opened
-  <b>  141</b> issues opened
+  <b>   95</b> pull requests opened
+  <b>  142</b> issues opened
   <b>   32</b> issue comments
 </div>
 <div class="stdin"><span class="ps1-path">areynard13@metrics</span>:<span class="ps1-location">~</span># ls -lh github/repositories</div><div class="stdout">Total 27 repositories - 94.6 MB
